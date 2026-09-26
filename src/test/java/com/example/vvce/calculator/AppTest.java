@@ -18,4 +18,7 @@ public class AppTest {
 		assertEquals(15,app.sub(20, 5));
 		
 	}
+	void testMultiplication() {
+		assertEquals(100,app.mul(20, 5));
+	}s
 }
