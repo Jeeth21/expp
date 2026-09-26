@@ -20,5 +20,5 @@ public class AppTest {
 	}
 	void testMultiplication() {
 		assertEquals(100,app.mul(20, 5));
-	}s
+	}
 }
